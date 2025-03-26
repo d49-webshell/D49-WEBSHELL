@@ -43,4 +43,4 @@ D49 Webshell is a PHP-based web application that provides an interface for manag
 1. **Clone the Repository**  
    Clone this repository to your local directory:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/d49-webshell/D49-WEBSHELL.git
